@@ -1,0 +1,2 @@
+# MVP
+Android开发中经典的MVP开发框架，模型、界面、业务逻辑三层结构，比MVC架构更容易维护、更简洁。基于WeakReference解决Android中发生的OOM问题，对重写的BaseActivity和BasePresenter能够快速的提高开发效率，形成一个简单易用的架构。
